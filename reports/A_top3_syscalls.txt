@@ -1,0 +1,9 @@
+Топ-3 системных вызовов (число вызовов, имя):
+reports/A_wc_strace.txt
+56 read
+31 openat
+21 mmap
+reports/A_python_strace.txt
+749 newfstatat
+299 read
+176 lseek

@@ -1,0 +1,44 @@
+Файл            Строк Ответов 5xx
+access_01.log            15000         58
+access_02.log            15000         62
+access_03.log            15000         82
+access_04.log            15000         57
+access_05.log            15000         74
+access_06.log            15000         57
+access_07.log            15000         53
+access_08.log            15000         60
+access_09.log            15000         55
+access_10.log            15000         61
+access_11.log            15000         64
+access_12.log            15000         60
+access_13.log            15000         55
+access_14.log            15000         62
+access_15.log            15000         73
+access_16.log            15000         54
+access_17.log            15000        149
+access_18.log            15000         63
+access_19.log            15000         57
+access_20.log            15000         64
+access_21.log            15000         52
+access_22.log            15000         59
+access_23.log            15000         55
+access_24.log            15000         48
+access_25.log            15000         69
+access_26.log            15000         57
+access_27.log            15000         79
+access_28.log            15000         69
+access_29.log            15000        132
+access_30.log            15000         60
+access_31.log            15000         57
+access_32.log            15000         59
+access_33.log            15000         58
+access_34.log            15000         56
+access_35.log            15000         54
+access_36.log            15000         58
+access_37.log            15000         63
+access_38.log            15000         53
+access_39.log            15000         68
+access_40.log            15000         54
+
+ИТОГО: 600000 строк, 2580 ошибок 5xx
+Больше всего 5xx: access_17.log (149 ошибок)

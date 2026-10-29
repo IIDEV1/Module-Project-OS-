@@ -1,0 +1,3 @@
+4509 read
+884 newfstatat
+333 close

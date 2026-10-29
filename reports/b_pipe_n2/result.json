@@ -1,0 +1,1780 @@
+{
+  "access_01.log": {
+    "errors_5xx": 58,
+    "paths": {
+      "/": {
+        "errors_5xx": 10,
+        "requests": 1852
+      },
+      "/api/cart": {
+        "errors_5xx": 15,
+        "requests": 2483
+      },
+      "/api/orders": {
+        "errors_5xx": 9,
+        "requests": 2477
+      },
+      "/api/payment": {
+        "errors_5xx": 0,
+        "requests": 640
+      },
+      "/api/products": {
+        "errors_5xx": 4,
+        "requests": 2766
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 924
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 889
+      },
+      "/static/app.js": {
+        "errors_5xx": 12,
+        "requests": 2969
+      }
+    },
+    "payment_errors": [],
+    "requests": 15000
+  },
+  "access_02.log": {
+    "errors_5xx": 62,
+    "paths": {
+      "/": {
+        "errors_5xx": 9,
+        "requests": 1798
+      },
+      "/api/cart": {
+        "errors_5xx": 13,
+        "requests": 2579
+      },
+      "/api/orders": {
+        "errors_5xx": 5,
+        "requests": 2511
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 598
+      },
+      "/api/products": {
+        "errors_5xx": 12,
+        "requests": 2681
+      },
+      "/api/search": {
+        "errors_5xx": 4,
+        "requests": 934
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 898
+      },
+      "/static/app.js": {
+        "errors_5xx": 13,
+        "requests": 3001
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 05:10:17"
+    ],
+    "requests": 15000
+  },
+  "access_03.log": {
+    "errors_5xx": 82,
+    "paths": {
+      "/": {
+        "errors_5xx": 9,
+        "requests": 1796
+      },
+      "/api/cart": {
+        "errors_5xx": 13,
+        "requests": 2539
+      },
+      "/api/orders": {
+        "errors_5xx": 16,
+        "requests": 2461
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 598
+      },
+      "/api/products": {
+        "errors_5xx": 12,
+        "requests": 2711
+      },
+      "/api/search": {
+        "errors_5xx": 7,
+        "requests": 933
+      },
+      "/login": {
+        "errors_5xx": 4,
+        "requests": 943
+      },
+      "/static/app.js": {
+        "errors_5xx": 19,
+        "requests": 3019
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 06:53:33",
+      "2026-10-20 07:49:56"
+    ],
+    "requests": 15000
+  },
+  "access_04.log": {
+    "errors_5xx": 57,
+    "paths": {
+      "/": {
+        "errors_5xx": 6,
+        "requests": 1806
+      },
+      "/api/cart": {
+        "errors_5xx": 8,
+        "requests": 2622
+      },
+      "/api/orders": {
+        "errors_5xx": 11,
+        "requests": 2467
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 556
+      },
+      "/api/products": {
+        "errors_5xx": 8,
+        "requests": 2758
+      },
+      "/api/search": {
+        "errors_5xx": 4,
+        "requests": 919
+      },
+      "/login": {
+        "errors_5xx": 9,
+        "requests": 920
+      },
+      "/static/app.js": {
+        "errors_5xx": 10,
+        "requests": 2952
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 09:02:07"
+    ],
+    "requests": 15000
+  },
+  "access_05.log": {
+    "errors_5xx": 74,
+    "paths": {
+      "/": {
+        "errors_5xx": 17,
+        "requests": 1788
+      },
+      "/api/cart": {
+        "errors_5xx": 9,
+        "requests": 2568
+      },
+      "/api/orders": {
+        "errors_5xx": 14,
+        "requests": 2618
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 623
+      },
+      "/api/products": {
+        "errors_5xx": 8,
+        "requests": 2665
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 883
+      },
+      "/login": {
+        "errors_5xx": 11,
+        "requests": 860
+      },
+      "/static/app.js": {
+        "errors_5xx": 11,
+        "requests": 2995
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 10:11:02",
+      "2026-10-20 10:24:47"
+    ],
+    "requests": 15000
+  },
+  "access_06.log": {
+    "errors_5xx": 57,
+    "paths": {
+      "/": {
+        "errors_5xx": 5,
+        "requests": 1799
+      },
+      "/api/cart": {
+        "errors_5xx": 11,
+        "requests": 2609
+      },
+      "/api/orders": {
+        "errors_5xx": 8,
+        "requests": 2480
+      },
+      "/api/payment": {
+        "errors_5xx": 3,
+        "requests": 585
+      },
+      "/api/products": {
+        "errors_5xx": 14,
+        "requests": 2702
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 895
+      },
+      "/login": {
+        "errors_5xx": 4,
+        "requests": 954
+      },
+      "/static/app.js": {
+        "errors_5xx": 9,
+        "requests": 2976
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 12:44:34",
+      "2026-10-20 13:05:35",
+      "2026-10-20 13:57:48"
+    ],
+    "requests": 15000
+  },
+  "access_07.log": {
+    "errors_5xx": 53,
+    "paths": {
+      "/": {
+        "errors_5xx": 6,
+        "requests": 1797
+      },
+      "/api/cart": {
+        "errors_5xx": 10,
+        "requests": 2521
+      },
+      "/api/orders": {
+        "errors_5xx": 11,
+        "requests": 2546
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 570
+      },
+      "/api/products": {
+        "errors_5xx": 11,
+        "requests": 2773
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 917
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 906
+      },
+      "/static/app.js": {
+        "errors_5xx": 9,
+        "requests": 2970
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 14:59:31"
+    ],
+    "requests": 15000
+  },
+  "access_08.log": {
+    "errors_5xx": 60,
+    "paths": {
+      "/": {
+        "errors_5xx": 4,
+        "requests": 1825
+      },
+      "/api/cart": {
+        "errors_5xx": 9,
+        "requests": 2472
+      },
+      "/api/orders": {
+        "errors_5xx": 6,
+        "requests": 2517
+      },
+      "/api/payment": {
+        "errors_5xx": 3,
+        "requests": 620
+      },
+      "/api/products": {
+        "errors_5xx": 13,
+        "requests": 2700
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 919
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 906
+      },
+      "/static/app.js": {
+        "errors_5xx": 17,
+        "requests": 3041
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 16:12:24",
+      "2026-10-20 17:04:25",
+      "2026-10-20 17:44:42"
+    ],
+    "requests": 15000
+  },
+  "access_09.log": {
+    "errors_5xx": 55,
+    "paths": {
+      "/": {
+        "errors_5xx": 9,
+        "requests": 1815
+      },
+      "/api/cart": {
+        "errors_5xx": 10,
+        "requests": 2486
+      },
+      "/api/orders": {
+        "errors_5xx": 9,
+        "requests": 2586
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 612
+      },
+      "/api/products": {
+        "errors_5xx": 10,
+        "requests": 2646
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 899
+      },
+      "/login": {
+        "errors_5xx": 2,
+        "requests": 943
+      },
+      "/static/app.js": {
+        "errors_5xx": 12,
+        "requests": 3013
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 19:51:49"
+    ],
+    "requests": 15000
+  },
+  "access_10.log": {
+    "errors_5xx": 61,
+    "paths": {
+      "/": {
+        "errors_5xx": 8,
+        "requests": 1791
+      },
+      "/api/cart": {
+        "errors_5xx": 10,
+        "requests": 2504
+      },
+      "/api/orders": {
+        "errors_5xx": 7,
+        "requests": 2533
+      },
+      "/api/payment": {
+        "errors_5xx": 4,
+        "requests": 654
+      },
+      "/api/products": {
+        "errors_5xx": 8,
+        "requests": 2738
+      },
+      "/api/search": {
+        "errors_5xx": 6,
+        "requests": 878
+      },
+      "/login": {
+        "errors_5xx": 1,
+        "requests": 900
+      },
+      "/static/app.js": {
+        "errors_5xx": 17,
+        "requests": 3002
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 20:02:01",
+      "2026-10-20 20:56:46",
+      "2026-10-20 21:07:07",
+      "2026-10-20 21:19:58"
+    ],
+    "requests": 15000
+  },
+  "access_11.log": {
+    "errors_5xx": 64,
+    "paths": {
+      "/": {
+        "errors_5xx": 3,
+        "requests": 1737
+      },
+      "/api/cart": {
+        "errors_5xx": 8,
+        "requests": 2524
+      },
+      "/api/orders": {
+        "errors_5xx": 14,
+        "requests": 2633
+      },
+      "/api/payment": {
+        "errors_5xx": 5,
+        "requests": 594
+      },
+      "/api/products": {
+        "errors_5xx": 10,
+        "requests": 2732
+      },
+      "/api/search": {
+        "errors_5xx": 7,
+        "requests": 902
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 946
+      },
+      "/static/app.js": {
+        "errors_5xx": 12,
+        "requests": 2932
+      }
+    },
+    "payment_errors": [
+      "2026-10-20 22:33:56",
+      "2026-10-20 22:37:46",
+      "2026-10-20 22:38:37",
+      "2026-10-20 22:40:55",
+      "2026-10-20 23:37:09"
+    ],
+    "requests": 15000
+  },
+  "access_12.log": {
+    "errors_5xx": 60,
+    "paths": {
+      "/": {
+        "errors_5xx": 5,
+        "requests": 1767
+      },
+      "/api/cart": {
+        "errors_5xx": 7,
+        "requests": 2599
+      },
+      "/api/orders": {
+        "errors_5xx": 9,
+        "requests": 2473
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 625
+      },
+      "/api/products": {
+        "errors_5xx": 13,
+        "requests": 2771
+      },
+      "/api/search": {
+        "errors_5xx": 5,
+        "requests": 921
+      },
+      "/login": {
+        "errors_5xx": 8,
+        "requests": 890
+      },
+      "/static/app.js": {
+        "errors_5xx": 11,
+        "requests": 2954
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 00:02:15",
+      "2026-10-21 01:50:35"
+    ],
+    "requests": 15000
+  },
+  "access_13.log": {
+    "errors_5xx": 55,
+    "paths": {
+      "/": {
+        "errors_5xx": 3,
+        "requests": 1831
+      },
+      "/api/cart": {
+        "errors_5xx": 9,
+        "requests": 2628
+      },
+      "/api/orders": {
+        "errors_5xx": 15,
+        "requests": 2598
+      },
+      "/api/payment": {
+        "errors_5xx": 3,
+        "requests": 605
+      },
+      "/api/products": {
+        "errors_5xx": 9,
+        "requests": 2660
+      },
+      "/api/search": {
+        "errors_5xx": 4,
+        "requests": 871
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 825
+      },
+      "/static/app.js": {
+        "errors_5xx": 9,
+        "requests": 2982
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 02:06:18",
+      "2026-10-21 02:16:47",
+      "2026-10-21 03:16:25"
+    ],
+    "requests": 15000
+  },
+  "access_14.log": {
+    "errors_5xx": 62,
+    "paths": {
+      "/": {
+        "errors_5xx": 9,
+        "requests": 1795
+      },
+      "/api/cart": {
+        "errors_5xx": 8,
+        "requests": 2428
+      },
+      "/api/orders": {
+        "errors_5xx": 13,
+        "requests": 2524
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 644
+      },
+      "/api/products": {
+        "errors_5xx": 9,
+        "requests": 2729
+      },
+      "/api/search": {
+        "errors_5xx": 6,
+        "requests": 928
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 920
+      },
+      "/static/app.js": {
+        "errors_5xx": 12,
+        "requests": 3032
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 04:14:58",
+      "2026-10-21 05:32:04"
+    ],
+    "requests": 15000
+  },
+  "access_15.log": {
+    "errors_5xx": 73,
+    "paths": {
+      "/": {
+        "errors_5xx": 5,
+        "requests": 1814
+      },
+      "/api/cart": {
+        "errors_5xx": 7,
+        "requests": 2480
+      },
+      "/api/orders": {
+        "errors_5xx": 10,
+        "requests": 2529
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 621
+      },
+      "/api/products": {
+        "errors_5xx": 24,
+        "requests": 2801
+      },
+      "/api/search": {
+        "errors_5xx": 4,
+        "requests": 854
+      },
+      "/login": {
+        "errors_5xx": 2,
+        "requests": 902
+      },
+      "/static/app.js": {
+        "errors_5xx": 20,
+        "requests": 2999
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 06:02:57"
+    ],
+    "requests": 15000
+  },
+  "access_16.log": {
+    "errors_5xx": 54,
+    "paths": {
+      "/": {
+        "errors_5xx": 5,
+        "requests": 1854
+      },
+      "/api/cart": {
+        "errors_5xx": 12,
+        "requests": 2523
+      },
+      "/api/orders": {
+        "errors_5xx": 10,
+        "requests": 2565
+      },
+      "/api/payment": {
+        "errors_5xx": 5,
+        "requests": 537
+      },
+      "/api/products": {
+        "errors_5xx": 7,
+        "requests": 2703
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 925
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 885
+      },
+      "/static/app.js": {
+        "errors_5xx": 10,
+        "requests": 3008
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 08:04:03",
+      "2026-10-21 08:23:06",
+      "2026-10-21 08:25:28",
+      "2026-10-21 08:35:04",
+      "2026-10-21 09:16:50"
+    ],
+    "requests": 15000
+  },
+  "access_17.log": {
+    "errors_5xx": 149,
+    "paths": {
+      "/": {
+        "errors_5xx": 5,
+        "requests": 1783
+      },
+      "/api/cart": {
+        "errors_5xx": 9,
+        "requests": 2602
+      },
+      "/api/orders": {
+        "errors_5xx": 5,
+        "requests": 2508
+      },
+      "/api/payment": {
+        "errors_5xx": 97,
+        "requests": 587
+      },
+      "/api/products": {
+        "errors_5xx": 12,
+        "requests": 2702
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 890
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 892
+      },
+      "/static/app.js": {
+        "errors_5xx": 16,
+        "requests": 3036
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 10:01:25",
+      "2026-10-21 10:47:05",
+      "2026-10-21 10:47:14",
+      "2026-10-21 10:47:23",
+      "2026-10-21 10:47:40",
+      "2026-10-21 10:47:47",
+      "2026-10-21 10:47:53",
+      "2026-10-21 10:49:20",
+      "2026-10-21 10:50:15",
+      "2026-10-21 10:50:28",
+      "2026-10-21 10:51:21",
+      "2026-10-21 10:51:36",
+      "2026-10-21 10:51:38",
+      "2026-10-21 10:53:23",
+      "2026-10-21 10:53:26",
+      "2026-10-21 10:53:36",
+      "2026-10-21 10:53:44",
+      "2026-10-21 10:54:32",
+      "2026-10-21 10:55:14",
+      "2026-10-21 10:55:17",
+      "2026-10-21 10:55:37",
+      "2026-10-21 10:56:11",
+      "2026-10-21 10:56:36",
+      "2026-10-21 10:57:11",
+      "2026-10-21 10:57:39",
+      "2026-10-21 10:57:41",
+      "2026-10-21 10:58:19",
+      "2026-10-21 10:58:49",
+      "2026-10-21 10:58:50",
+      "2026-10-21 10:58:52",
+      "2026-10-21 10:59:07",
+      "2026-10-21 10:59:17",
+      "2026-10-21 10:59:18",
+      "2026-10-21 10:59:43",
+      "2026-10-21 11:00:24",
+      "2026-10-21 11:00:26",
+      "2026-10-21 11:00:27",
+      "2026-10-21 11:01:33",
+      "2026-10-21 11:01:52",
+      "2026-10-21 11:03:41",
+      "2026-10-21 11:04:03",
+      "2026-10-21 11:04:12",
+      "2026-10-21 11:04:27",
+      "2026-10-21 11:04:48",
+      "2026-10-21 11:05:07",
+      "2026-10-21 11:05:29",
+      "2026-10-21 11:05:37",
+      "2026-10-21 11:06:35",
+      "2026-10-21 11:06:36",
+      "2026-10-21 11:06:55",
+      "2026-10-21 11:07:17",
+      "2026-10-21 11:07:17",
+      "2026-10-21 11:07:53",
+      "2026-10-21 11:08:32",
+      "2026-10-21 11:10:54",
+      "2026-10-21 11:11:21",
+      "2026-10-21 11:11:32",
+      "2026-10-21 11:11:41",
+      "2026-10-21 11:11:43",
+      "2026-10-21 11:11:44",
+      "2026-10-21 11:12:52",
+      "2026-10-21 11:13:16",
+      "2026-10-21 11:13:24",
+      "2026-10-21 11:13:33",
+      "2026-10-21 11:13:41",
+      "2026-10-21 11:13:50",
+      "2026-10-21 11:13:59",
+      "2026-10-21 11:14:12",
+      "2026-10-21 11:14:19",
+      "2026-10-21 11:14:22",
+      "2026-10-21 11:15:04",
+      "2026-10-21 11:15:17",
+      "2026-10-21 11:16:04",
+      "2026-10-21 11:16:23",
+      "2026-10-21 11:16:45",
+      "2026-10-21 11:16:52",
+      "2026-10-21 11:17:21",
+      "2026-10-21 11:17:32",
+      "2026-10-21 11:17:46",
+      "2026-10-21 11:18:43",
+      "2026-10-21 11:19:00",
+      "2026-10-21 11:20:44",
+      "2026-10-21 11:20:54",
+      "2026-10-21 11:20:56",
+      "2026-10-21 11:20:59",
+      "2026-10-21 11:21:27",
+      "2026-10-21 11:21:35",
+      "2026-10-21 11:21:39",
+      "2026-10-21 11:21:45",
+      "2026-10-21 11:21:49",
+      "2026-10-21 11:21:54",
+      "2026-10-21 11:22:05",
+      "2026-10-21 11:22:14",
+      "2026-10-21 11:22:16",
+      "2026-10-21 11:22:25",
+      "2026-10-21 11:22:36",
+      "2026-10-21 11:22:36"
+    ],
+    "requests": 15000
+  },
+  "access_18.log": {
+    "errors_5xx": 63,
+    "paths": {
+      "/": {
+        "errors_5xx": 11,
+        "requests": 1864
+      },
+      "/api/cart": {
+        "errors_5xx": 10,
+        "requests": 2496
+      },
+      "/api/orders": {
+        "errors_5xx": 9,
+        "requests": 2619
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 574
+      },
+      "/api/products": {
+        "errors_5xx": 18,
+        "requests": 2701
+      },
+      "/api/search": {
+        "errors_5xx": 5,
+        "requests": 884
+      },
+      "/login": {
+        "errors_5xx": 0,
+        "requests": 885
+      },
+      "/static/app.js": {
+        "errors_5xx": 8,
+        "requests": 2977
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 12:01:25",
+      "2026-10-21 12:35:43"
+    ],
+    "requests": 15000
+  },
+  "access_19.log": {
+    "errors_5xx": 57,
+    "paths": {
+      "/": {
+        "errors_5xx": 8,
+        "requests": 1811
+      },
+      "/api/cart": {
+        "errors_5xx": 13,
+        "requests": 2581
+      },
+      "/api/orders": {
+        "errors_5xx": 6,
+        "requests": 2498
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 571
+      },
+      "/api/products": {
+        "errors_5xx": 11,
+        "requests": 2629
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 919
+      },
+      "/login": {
+        "errors_5xx": 7,
+        "requests": 962
+      },
+      "/static/app.js": {
+        "errors_5xx": 7,
+        "requests": 3029
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 14:54:48",
+      "2026-10-21 15:04:43"
+    ],
+    "requests": 15000
+  },
+  "access_20.log": {
+    "errors_5xx": 64,
+    "paths": {
+      "/": {
+        "errors_5xx": 5,
+        "requests": 1817
+      },
+      "/api/cart": {
+        "errors_5xx": 13,
+        "requests": 2550
+      },
+      "/api/orders": {
+        "errors_5xx": 9,
+        "requests": 2553
+      },
+      "/api/payment": {
+        "errors_5xx": 4,
+        "requests": 608
+      },
+      "/api/products": {
+        "errors_5xx": 15,
+        "requests": 2680
+      },
+      "/api/search": {
+        "errors_5xx": 6,
+        "requests": 920
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 893
+      },
+      "/static/app.js": {
+        "errors_5xx": 9,
+        "requests": 2979
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 16:10:48",
+      "2026-10-21 16:30:10",
+      "2026-10-21 17:39:12",
+      "2026-10-21 17:50:42"
+    ],
+    "requests": 15000
+  },
+  "access_21.log": {
+    "errors_5xx": 52,
+    "paths": {
+      "/": {
+        "errors_5xx": 4,
+        "requests": 1801
+      },
+      "/api/cart": {
+        "errors_5xx": 13,
+        "requests": 2488
+      },
+      "/api/orders": {
+        "errors_5xx": 10,
+        "requests": 2592
+      },
+      "/api/payment": {
+        "errors_5xx": 0,
+        "requests": 639
+      },
+      "/api/products": {
+        "errors_5xx": 7,
+        "requests": 2694
+      },
+      "/api/search": {
+        "errors_5xx": 5,
+        "requests": 911
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 890
+      },
+      "/static/app.js": {
+        "errors_5xx": 8,
+        "requests": 2985
+      }
+    },
+    "payment_errors": [],
+    "requests": 15000
+  },
+  "access_22.log": {
+    "errors_5xx": 59,
+    "paths": {
+      "/": {
+        "errors_5xx": 8,
+        "requests": 1802
+      },
+      "/api/cart": {
+        "errors_5xx": 11,
+        "requests": 2482
+      },
+      "/api/orders": {
+        "errors_5xx": 7,
+        "requests": 2537
+      },
+      "/api/payment": {
+        "errors_5xx": 5,
+        "requests": 605
+      },
+      "/api/products": {
+        "errors_5xx": 12,
+        "requests": 2825
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 891
+      },
+      "/login": {
+        "errors_5xx": 2,
+        "requests": 910
+      },
+      "/static/app.js": {
+        "errors_5xx": 12,
+        "requests": 2948
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 20:13:17",
+      "2026-10-21 20:14:25",
+      "2026-10-21 20:16:11",
+      "2026-10-21 20:37:24",
+      "2026-10-21 21:01:24"
+    ],
+    "requests": 15000
+  },
+  "access_23.log": {
+    "errors_5xx": 55,
+    "paths": {
+      "/": {
+        "errors_5xx": 11,
+        "requests": 1750
+      },
+      "/api/cart": {
+        "errors_5xx": 9,
+        "requests": 2638
+      },
+      "/api/orders": {
+        "errors_5xx": 6,
+        "requests": 2557
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 557
+      },
+      "/api/products": {
+        "errors_5xx": 13,
+        "requests": 2647
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 931
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 896
+      },
+      "/static/app.js": {
+        "errors_5xx": 10,
+        "requests": 3024
+      }
+    },
+    "payment_errors": [
+      "2026-10-21 23:24:11"
+    ],
+    "requests": 15000
+  },
+  "access_24.log": {
+    "errors_5xx": 48,
+    "paths": {
+      "/": {
+        "errors_5xx": 5,
+        "requests": 1817
+      },
+      "/api/cart": {
+        "errors_5xx": 10,
+        "requests": 2506
+      },
+      "/api/orders": {
+        "errors_5xx": 6,
+        "requests": 2559
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 638
+      },
+      "/api/products": {
+        "errors_5xx": 10,
+        "requests": 2746
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 908
+      },
+      "/login": {
+        "errors_5xx": 4,
+        "requests": 867
+      },
+      "/static/app.js": {
+        "errors_5xx": 9,
+        "requests": 2959
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 00:07:41",
+      "2026-10-22 00:40:16"
+    ],
+    "requests": 15000
+  },
+  "access_25.log": {
+    "errors_5xx": 69,
+    "paths": {
+      "/": {
+        "errors_5xx": 13,
+        "requests": 1891
+      },
+      "/api/cart": {
+        "errors_5xx": 16,
+        "requests": 2492
+      },
+      "/api/orders": {
+        "errors_5xx": 10,
+        "requests": 2567
+      },
+      "/api/payment": {
+        "errors_5xx": 3,
+        "requests": 579
+      },
+      "/api/products": {
+        "errors_5xx": 7,
+        "requests": 2648
+      },
+      "/api/search": {
+        "errors_5xx": 4,
+        "requests": 957
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 888
+      },
+      "/static/app.js": {
+        "errors_5xx": 11,
+        "requests": 2978
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 02:16:20",
+      "2026-10-22 03:01:49",
+      "2026-10-22 03:44:32"
+    ],
+    "requests": 15000
+  },
+  "access_26.log": {
+    "errors_5xx": 57,
+    "paths": {
+      "/": {
+        "errors_5xx": 6,
+        "requests": 1806
+      },
+      "/api/cart": {
+        "errors_5xx": 12,
+        "requests": 2533
+      },
+      "/api/orders": {
+        "errors_5xx": 10,
+        "requests": 2549
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 610
+      },
+      "/api/products": {
+        "errors_5xx": 10,
+        "requests": 2733
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 921
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 887
+      },
+      "/static/app.js": {
+        "errors_5xx": 9,
+        "requests": 2961
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 05:10:59",
+      "2026-10-22 05:12:49"
+    ],
+    "requests": 15000
+  },
+  "access_27.log": {
+    "errors_5xx": 79,
+    "paths": {
+      "/": {
+        "errors_5xx": 7,
+        "requests": 1841
+      },
+      "/api/cart": {
+        "errors_5xx": 14,
+        "requests": 2533
+      },
+      "/api/orders": {
+        "errors_5xx": 17,
+        "requests": 2578
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 570
+      },
+      "/api/products": {
+        "errors_5xx": 11,
+        "requests": 2705
+      },
+      "/api/search": {
+        "errors_5xx": 5,
+        "requests": 870
+      },
+      "/login": {
+        "errors_5xx": 6,
+        "requests": 921
+      },
+      "/static/app.js": {
+        "errors_5xx": 17,
+        "requests": 2982
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 06:42:34",
+      "2026-10-22 07:21:34"
+    ],
+    "requests": 15000
+  },
+  "access_28.log": {
+    "errors_5xx": 69,
+    "paths": {
+      "/": {
+        "errors_5xx": 8,
+        "requests": 1828
+      },
+      "/api/cart": {
+        "errors_5xx": 11,
+        "requests": 2542
+      },
+      "/api/orders": {
+        "errors_5xx": 10,
+        "requests": 2520
+      },
+      "/api/payment": {
+        "errors_5xx": 3,
+        "requests": 613
+      },
+      "/api/products": {
+        "errors_5xx": 8,
+        "requests": 2723
+      },
+      "/api/search": {
+        "errors_5xx": 5,
+        "requests": 870
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 859
+      },
+      "/static/app.js": {
+        "errors_5xx": 21,
+        "requests": 3045
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 09:07:31",
+      "2026-10-22 09:48:15",
+      "2026-10-22 09:49:11"
+    ],
+    "requests": 15000
+  },
+  "access_29.log": {
+    "errors_5xx": 132,
+    "paths": {
+      "/": {
+        "errors_5xx": 21,
+        "requests": 1849
+      },
+      "/api/cart": {
+        "errors_5xx": 24,
+        "requests": 2501
+      },
+      "/api/orders": {
+        "errors_5xx": 19,
+        "requests": 2533
+      },
+      "/api/payment": {
+        "errors_5xx": 8,
+        "requests": 601
+      },
+      "/api/products": {
+        "errors_5xx": 19,
+        "requests": 2703
+      },
+      "/api/search": {
+        "errors_5xx": 11,
+        "requests": 858
+      },
+      "/login": {
+        "errors_5xx": 8,
+        "requests": 939
+      },
+      "/static/app.js": {
+        "errors_5xx": 22,
+        "requests": 3016
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 10:08:13",
+      "2026-10-22 10:18:05",
+      "2026-10-22 10:29:36",
+      "2026-10-22 10:33:19",
+      "2026-10-22 10:38:44",
+      "2026-10-22 10:38:51",
+      "2026-10-22 11:31:21",
+      "2026-10-22 11:52:38"
+    ],
+    "requests": 15000
+  },
+  "access_30.log": {
+    "errors_5xx": 60,
+    "paths": {
+      "/": {
+        "errors_5xx": 7,
+        "requests": 1836
+      },
+      "/api/cart": {
+        "errors_5xx": 12,
+        "requests": 2553
+      },
+      "/api/orders": {
+        "errors_5xx": 9,
+        "requests": 2612
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 645
+      },
+      "/api/products": {
+        "errors_5xx": 15,
+        "requests": 2743
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 888
+      },
+      "/login": {
+        "errors_5xx": 2,
+        "requests": 810
+      },
+      "/static/app.js": {
+        "errors_5xx": 11,
+        "requests": 2913
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 13:30:31"
+    ],
+    "requests": 15000
+  },
+  "access_31.log": {
+    "errors_5xx": 57,
+    "paths": {
+      "/": {
+        "errors_5xx": 5,
+        "requests": 1800
+      },
+      "/api/cart": {
+        "errors_5xx": 13,
+        "requests": 2582
+      },
+      "/api/orders": {
+        "errors_5xx": 7,
+        "requests": 2427
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 606
+      },
+      "/api/products": {
+        "errors_5xx": 12,
+        "requests": 2671
+      },
+      "/api/search": {
+        "errors_5xx": 6,
+        "requests": 950
+      },
+      "/login": {
+        "errors_5xx": 6,
+        "requests": 924
+      },
+      "/static/app.js": {
+        "errors_5xx": 6,
+        "requests": 3040
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 14:24:16",
+      "2026-10-22 15:26:25"
+    ],
+    "requests": 15000
+  },
+  "access_32.log": {
+    "errors_5xx": 59,
+    "paths": {
+      "/": {
+        "errors_5xx": 7,
+        "requests": 1839
+      },
+      "/api/cart": {
+        "errors_5xx": 14,
+        "requests": 2504
+      },
+      "/api/orders": {
+        "errors_5xx": 7,
+        "requests": 2582
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 582
+      },
+      "/api/products": {
+        "errors_5xx": 11,
+        "requests": 2728
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 897
+      },
+      "/login": {
+        "errors_5xx": 4,
+        "requests": 885
+      },
+      "/static/app.js": {
+        "errors_5xx": 13,
+        "requests": 2983
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 17:25:37"
+    ],
+    "requests": 15000
+  },
+  "access_33.log": {
+    "errors_5xx": 58,
+    "paths": {
+      "/": {
+        "errors_5xx": 2,
+        "requests": 1820
+      },
+      "/api/cart": {
+        "errors_5xx": 10,
+        "requests": 2532
+      },
+      "/api/orders": {
+        "errors_5xx": 15,
+        "requests": 2546
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 606
+      },
+      "/api/products": {
+        "errors_5xx": 13,
+        "requests": 2728
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 915
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 940
+      },
+      "/static/app.js": {
+        "errors_5xx": 8,
+        "requests": 2913
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 18:00:23",
+      "2026-10-22 18:33:05"
+    ],
+    "requests": 15000
+  },
+  "access_34.log": {
+    "errors_5xx": 56,
+    "paths": {
+      "/": {
+        "errors_5xx": 6,
+        "requests": 1791
+      },
+      "/api/cart": {
+        "errors_5xx": 14,
+        "requests": 2532
+      },
+      "/api/orders": {
+        "errors_5xx": 7,
+        "requests": 2560
+      },
+      "/api/payment": {
+        "errors_5xx": 0,
+        "requests": 612
+      },
+      "/api/products": {
+        "errors_5xx": 10,
+        "requests": 2639
+      },
+      "/api/search": {
+        "errors_5xx": 1,
+        "requests": 885
+      },
+      "/login": {
+        "errors_5xx": 3,
+        "requests": 908
+      },
+      "/static/app.js": {
+        "errors_5xx": 15,
+        "requests": 3073
+      }
+    },
+    "payment_errors": [],
+    "requests": 15000
+  },
+  "access_35.log": {
+    "errors_5xx": 54,
+    "paths": {
+      "/": {
+        "errors_5xx": 10,
+        "requests": 1807
+      },
+      "/api/cart": {
+        "errors_5xx": 8,
+        "requests": 2551
+      },
+      "/api/orders": {
+        "errors_5xx": 10,
+        "requests": 2571
+      },
+      "/api/payment": {
+        "errors_5xx": 2,
+        "requests": 615
+      },
+      "/api/products": {
+        "errors_5xx": 9,
+        "requests": 2713
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 860
+      },
+      "/login": {
+        "errors_5xx": 2,
+        "requests": 877
+      },
+      "/static/app.js": {
+        "errors_5xx": 11,
+        "requests": 3006
+      }
+    },
+    "payment_errors": [
+      "2026-10-22 22:33:26",
+      "2026-10-22 23:00:20"
+    ],
+    "requests": 15000
+  },
+  "access_36.log": {
+    "errors_5xx": 58,
+    "paths": {
+      "/": {
+        "errors_5xx": 8,
+        "requests": 1712
+      },
+      "/api/cart": {
+        "errors_5xx": 4,
+        "requests": 2633
+      },
+      "/api/orders": {
+        "errors_5xx": 12,
+        "requests": 2590
+      },
+      "/api/payment": {
+        "errors_5xx": 4,
+        "requests": 600
+      },
+      "/api/products": {
+        "errors_5xx": 13,
+        "requests": 2731
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 902
+      },
+      "/login": {
+        "errors_5xx": 2,
+        "requests": 888
+      },
+      "/static/app.js": {
+        "errors_5xx": 12,
+        "requests": 2944
+      }
+    },
+    "payment_errors": [
+      "2026-10-23 00:39:04",
+      "2026-10-23 00:53:15",
+      "2026-10-23 01:19:47",
+      "2026-10-23 01:23:04"
+    ],
+    "requests": 15000
+  },
+  "access_37.log": {
+    "errors_5xx": 63,
+    "paths": {
+      "/": {
+        "errors_5xx": 8,
+        "requests": 1785
+      },
+      "/api/cart": {
+        "errors_5xx": 8,
+        "requests": 2529
+      },
+      "/api/orders": {
+        "errors_5xx": 17,
+        "requests": 2547
+      },
+      "/api/payment": {
+        "errors_5xx": 0,
+        "requests": 642
+      },
+      "/api/products": {
+        "errors_5xx": 14,
+        "requests": 2684
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 945
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 871
+      },
+      "/static/app.js": {
+        "errors_5xx": 8,
+        "requests": 2997
+      }
+    },
+    "payment_errors": [],
+    "requests": 15000
+  },
+  "access_38.log": {
+    "errors_5xx": 53,
+    "paths": {
+      "/": {
+        "errors_5xx": 4,
+        "requests": 1791
+      },
+      "/api/cart": {
+        "errors_5xx": 10,
+        "requests": 2577
+      },
+      "/api/orders": {
+        "errors_5xx": 11,
+        "requests": 2527
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 589
+      },
+      "/api/products": {
+        "errors_5xx": 13,
+        "requests": 2723
+      },
+      "/api/search": {
+        "errors_5xx": 3,
+        "requests": 908
+      },
+      "/login": {
+        "errors_5xx": 2,
+        "requests": 849
+      },
+      "/static/app.js": {
+        "errors_5xx": 9,
+        "requests": 3036
+      }
+    },
+    "payment_errors": [
+      "2026-10-23 05:58:05"
+    ],
+    "requests": 15000
+  },
+  "access_39.log": {
+    "errors_5xx": 68,
+    "paths": {
+      "/": {
+        "errors_5xx": 9,
+        "requests": 1796
+      },
+      "/api/cart": {
+        "errors_5xx": 10,
+        "requests": 2558
+      },
+      "/api/orders": {
+        "errors_5xx": 14,
+        "requests": 2568
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 590
+      },
+      "/api/products": {
+        "errors_5xx": 12,
+        "requests": 2623
+      },
+      "/api/search": {
+        "errors_5xx": 1,
+        "requests": 879
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 951
+      },
+      "/static/app.js": {
+        "errors_5xx": 16,
+        "requests": 3035
+      }
+    },
+    "payment_errors": [
+      "2026-10-23 06:58:38"
+    ],
+    "requests": 15000
+  },
+  "access_40.log": {
+    "errors_5xx": 54,
+    "paths": {
+      "/": {
+        "errors_5xx": 7,
+        "requests": 1814
+      },
+      "/api/cart": {
+        "errors_5xx": 7,
+        "requests": 2495
+      },
+      "/api/orders": {
+        "errors_5xx": 11,
+        "requests": 2543
+      },
+      "/api/payment": {
+        "errors_5xx": 1,
+        "requests": 640
+      },
+      "/api/products": {
+        "errors_5xx": 11,
+        "requests": 2684
+      },
+      "/api/search": {
+        "errors_5xx": 2,
+        "requests": 880
+      },
+      "/login": {
+        "errors_5xx": 5,
+        "requests": 932
+      },
+      "/static/app.js": {
+        "errors_5xx": 10,
+        "requests": 3012
+      }
+    },
+    "payment_errors": [
+      "2026-10-23 08:12:57"
+    ],
+    "requests": 15000
+  }
+}

@@ -1,0 +1,12 @@
+Команда: python3 project3.py c --method shm -n 4 --slow 8
+Сигнал: SIGINT (имитация Ctrl+C родителю)
+Код завершения: 130
+Дочерние PID до прерывания: 1890, 1891, 1892, 1893, 1894
+Оставшиеся дочерние PID после: []
+Новые оставшиеся сегменты /dev/shm/psm_*: []
+Вывод:
+/mnt/data/modul1/project3.py:164: DeprecationWarning: This process (pid=1880) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+Ctrl+C: дочерние процессы остановлены; waitpid и очистка выполнены.
+
